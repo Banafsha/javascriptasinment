@@ -775,6 +775,39 @@
 // document.write("<br>Element at index 3 is"+" "+fruits[3]);
 // document.write("<br>Element at index 4 is"+" "+fruits[4]);
 
+
+// var ty = prompt("Welcome to freshy Bakery.What do you want sir/mam ?")
+// var ik = ["cake","apple pie","cookie","chips","patties"];
+// if (ty==="cake"){
+//     document.write("Cake is available at Index 0 in our bakery")
+// }
+// else if (ty==="apple pie"){
+//     document.write("apple pie is available at Index 1 in our bakery")
+
+// }
+
+// else if (ty==="cookie"){
+//     document.write("cookie is available at Index 2 in our bakery")
+
+// }
+
+// else if (ty==="chips"){
+//     document.write("chips is available at Index 3 in our bakery")
+
+// }
+
+// else if (ty==="patties"){
+//     document.write("patties is available at Index 4 in our bakery")
+
+// }
+
+// else{
+//     document.write("We are sorry"+" "+ty +"is not available in our bakery")
+
+// }
+
+
+
 // var No = 5 ;
 // for(i=1;i<=20;i++){
 //     document.write( No*i  + ",")
